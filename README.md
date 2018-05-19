@@ -12,7 +12,7 @@ Download the main.cpp file which conatins the code.
 Now,
 	g++ main.cpp -Wall
 
-Ignore the Warnings
+*Ignore the Warnings
 
 An interface will open on the terminal 
 Enter you name : Example
