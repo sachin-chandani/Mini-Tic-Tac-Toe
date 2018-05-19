@@ -18,7 +18,9 @@ An interface will open on the terminal
 Enter you name : Example
 
 _ _ _ | (1,1)(1,2)(1,3)
+
 _ _ _ | (1,1)(1,2)(1,3)
+
 _ _ _ | (1,1)(1,2)(1,3)
 
 To make a move enter the corresponding coordinate from right side.
@@ -27,7 +29,9 @@ for example if you enter 1 2
 Your board will turn to this and bot will play its move and the so on...
 
 _ E _ | (1,1)(1,2)(1,3)
+
 _ _ _ | (1,1)(1,2)(1,3)
+
 _ _ _ | (1,1)(1,2)(1,3)
 
 
